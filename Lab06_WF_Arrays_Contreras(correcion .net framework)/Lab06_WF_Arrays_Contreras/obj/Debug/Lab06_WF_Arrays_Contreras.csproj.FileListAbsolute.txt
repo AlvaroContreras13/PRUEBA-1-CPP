@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\aiudaa\Lab06_WF_Arrays_Contreras\Lab06_WF_Arrays_Contreras\bin\Debug\Lab06_WF_Arrays_Contreras.exe.config
+C:\Users\HP\Desktop\aiudaa\Lab06_WF_Arrays_Contreras\Lab06_WF_Arrays_Contreras\bin\Debug\Lab06_WF_Arrays_Contreras.exe
+C:\Users\HP\Desktop\aiudaa\Lab06_WF_Arrays_Contreras\Lab06_WF_Arrays_Contreras\bin\Debug\Lab06_WF_Arrays_Contreras.pdb
+C:\Users\HP\Desktop\aiudaa\Lab06_WF_Arrays_Contreras\Lab06_WF_Arrays_Contreras\obj\Debug\Lab06_WF_Arrays_Contreras.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\aiudaa\Lab06_WF_Arrays_Contreras\Lab06_WF_Arrays_Contreras\obj\Debug\Lab06_WF_Arrays_Contreras.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\aiudaa\Lab06_WF_Arrays_Contreras\Lab06_WF_Arrays_Contreras\obj\Debug\Lab06_WF_Arrays_Contreras.Form1.resources
+C:\Users\HP\Desktop\aiudaa\Lab06_WF_Arrays_Contreras\Lab06_WF_Arrays_Contreras\obj\Debug\Lab06_WF_Arrays_Contreras.Properties.Resources.resources
+C:\Users\HP\Desktop\aiudaa\Lab06_WF_Arrays_Contreras\Lab06_WF_Arrays_Contreras\obj\Debug\Lab06_WF_Arrays_Contreras.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\aiudaa\Lab06_WF_Arrays_Contreras\Lab06_WF_Arrays_Contreras\obj\Debug\Lab06_WF_Arrays_Contreras.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\aiudaa\Lab06_WF_Arrays_Contreras\Lab06_WF_Arrays_Contreras\obj\Debug\Lab06_WF_Arrays_Contreras.exe
+C:\Users\HP\Desktop\aiudaa\Lab06_WF_Arrays_Contreras\Lab06_WF_Arrays_Contreras\obj\Debug\Lab06_WF_Arrays_Contreras.pdb
